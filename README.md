@@ -1,16 +1,16 @@
-<!-- 👋 Bienvenido al perfil de Adrian0710 -->
+<!--  Bienvenido al perfil de Adrian0710 -->
 
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#00C2FF;">Adrian</span></h1>
+<h1 align="center"> ¡Hola! Soy <span style="color:#00C2FF;">Adrian</span></h1>
 
 <p align="center">
-  💻 Desarrollador entusiasta del mundo tech — Backend, Cloud y Automatización 🚀  
+   Desarrollador entusiasta del mundo tech — Frontend, Cloud y Automatización   
   <br/>
   Siempre aprendiendo, siempre creando.
 </p>
 
 ---
 
-## 🌱 Actualmente aprendiendo sobre...
+##  Actualmente aprendiendo sobre...
 > Golang 🦫 · Python 🐍 · Docker 🐳 · AWS ☁️  
 
 También tengo experiencia en:  
@@ -18,7 +18,7 @@ También tengo experiencia en:
 
 ---
 
-## 🚀 Tecnologías y herramientas
+##  Tecnologías y herramientas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -48,13 +48,10 @@ También tengo experiencia en:
 
 ---
 
-## ✨ Mis proyectos favoritos
+##  Mis proyectos favoritos
 
-- 🌍 **Agencia Eco Viajes** — App web para registrar ciudades y calcular rutas más cortas usando grafos.  
-- 🚌 **SuchiBus API** — API REST desarrollada con Flask y PostgreSQL para la gestión de transporte.  
-- 🔬 **Pruebas de Software** — Ejemplos de casos de uso, testing y calidad de software.  
-
-*(Puedes ver más proyectos en mi perfil 👇)*
+- **SuchiBus API** — API REST desarrollada con Flask y PostgreSQL para la gestión de transporte.
+- **VitalVest**    — API Hexagonal desarrollada con Goland y PostgresSQL para el monitoreo corporal mediantes un chaleco que implementa sensores.
 
 ---
 
@@ -62,18 +59,15 @@ También tengo experiencia en:
 
 - 🧠 Siempre en busca de aprender algo nuevo.  
 - ⚡ Apasionado por la tecnología, la infraestructura y la eficiencia del código.  
-- 🌎 Fan de la automatización, la nube y el desarrollo backend.  
+- 🌎 Fan de la automatización, la nube y el desarrollo frontend.  
 
 ---
 
 ## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="mailto:adrian.dev@example.com">
+  <a href="adrian2aguilarg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/adrian-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
